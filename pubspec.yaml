@@ -1,7 +1,7 @@
 name: roc_date_time
 version: 1.0.0
 description: A Dart package providing custom DateTime classes for displaying dates in the Republic of China (ROC) calendar.
-homepage: https://github.com/ShiKai-Pan/roc_date_time
+homepage: https://globetrotter-studio.com
 repository: https://github.com/ShiKai-Pan/roc_date_time
 issue_tracker: https://github.com/ShiKai-Pan/roc_date_time/issues
 environment:
